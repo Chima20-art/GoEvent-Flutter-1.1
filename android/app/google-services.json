@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119544482942",
+    "project_id": "grandioses-682f3",
+    "storage_bucket": "grandioses-682f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119544482942:android:7ad09fac0a911cfb0adc2f",
+        "android_client_info": {
+          "package_name": "com.grandioses.go_event"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119544482942-6tnfgjk84kunksk1b90ldnrd4e0sj19a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRXvuA-LrgpLYz0jocuK_ugqrqJa0IbFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119544482942-6tnfgjk84kunksk1b90ldnrd4e0sj19a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

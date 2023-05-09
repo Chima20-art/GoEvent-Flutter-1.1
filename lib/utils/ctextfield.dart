@@ -14,8 +14,7 @@ class Customtextfild {
     TextInputType? keyboardType,
     TextInputAction? textInputAction,
   }) {
-    return ScreenUtilInit(
-      builder: (context, child) => Container(
+    return Container(
         color: Colors.transparent,
         height: 45.h,
         child: TextFormField(
@@ -42,7 +41,6 @@ class Customtextfild {
                 borderRadius: BorderRadius.circular(10.sp)),
           ),
         ),
-      ),
-    );
+      );
   }
 }

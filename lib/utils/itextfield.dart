@@ -5,8 +5,7 @@ class Customtextfild2 {
   static Widget textField(
       controller, txt, name1, clr, textcolor, img, suffixIcon,
       {String? Function(String?)? validator}) {
-    return ScreenUtilInit(
-      builder: (context, child) => Container(
+    return Container(
         color: Colors.transparent,
         height: 45.h,
         child: TextFormField(
@@ -33,7 +32,6 @@ class Customtextfild2 {
                 borderRadius: BorderRadius.circular(10.sp)),
           ),
         ),
-      ),
-    );
+      );
   }
 }
